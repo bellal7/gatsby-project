@@ -1,1 +1,1 @@
-# gatsby-project
+gatsby-theme-intro/README.md

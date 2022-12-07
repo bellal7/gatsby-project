@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "version": "2.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "yarn workspace site build",
+    "clean": "yarn workspace site clean",
+    "develop": "yarn workspace site develop"
+  },
+  "workspaces": [
+    "gatsby-theme-intro",
+    "site"
+  ],
+  "name": "intro-project",
+  "author": "bellal7 <publbr73@gmail.com>"
+}

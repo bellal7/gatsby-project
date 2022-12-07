@@ -1,0 +1,27 @@
+- profile:
+  initials: JD
+  name: Boram Lim
+  profession: Frontend Developer
+  image: images/profile.jpg
+  location: Seoul, South Korea
+  relocation: true
+  company: "-"
+  for_hire: true
+  focus: Learning Gatsby
+  focus_url: ""
+  about: |
+    백엔드 개발 경험이 있는 프론트엔드 개발자입니다.
+    방송 플랫폼 서비스, 웹 에이전시, 광고대행사, 교육기업 등 여러 서비스기업에서의 근무 경험으로 프론트엔드 개발자로써 전문성을 키워 왔습니다.
+    최근까지 진행한 프로젝트는 React 기반의 실시간 오디오 방송 플랫폼 웹, 하이브리드앱 제작, 대기업과의 협업을 통한 프론트엔드 개발작업 등이 있습니다.
+  skills:
+    - HTML / CSS
+    - React / VueJS
+    - JavaScript
+  tools:
+    - React
+    - VSCode
+  budget:
+    currency: ""
+    min: ""
+    max: ""
+    default: ""

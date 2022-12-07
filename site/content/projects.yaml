@@ -1,0 +1,143 @@
+- name: 달빛라이브 서비스 하이브리드 앱 React 개발 (2020.6 - 2022.03)
+  url: https://www.dallalive.com/
+  description: 인포렉스 개발팀 프론트엔드 파트장 
+
+    React를 이용한 하이브리드 앱, pc서비스 개발
+
+    달빛라이브 라이브 오디오 방송 서비스 프론트엔드 개발
+
+    회원관리, 마이페이지 등 서비스 운영 개발 
+
+    채팅소켓을 이용한 방송방페이지 운영
+
+    프론트엔드 파트장으로 기획, 디자인, 개발자와의 원활한 소통가능
+  status: live
+  tags:
+    - React
+    - HTML
+    - Sass
+    - Restful API
+    - Git, Node.js
+  icon: website
+  image: images/project_dalla.jpg
+
+- name: Darim Acro 브랜드 사이트 UI개발
+  url: https://www.acro.co.kr/Mnmn_main.action
+  description: Acro 아파트 브랜드 소개페이지 퍼블리싱
+  status: live
+  tags:
+    - HTML
+    - Sass
+    - Css Animation
+    - Gulp
+  icon: website
+  image: images/project_daerim.jpg
+
+- name: 전자결재 하이브리드 앱 Vue 개발
+  url: 
+  description: 사내 전자결재(연차신청 외) Vue 개발
+  status: 
+  tags:
+    - HTML
+    - Sass
+    - Vue.js
+  icon: 
+  image: images/project_krafton.jpg
+
+- name: 뱅크 모바일 페이지 UI개발
+  url: 
+  description: 모바일 환경 뱅크 결제 페이지 퍼블리싱
+  status: 
+  tags:
+    - HTML
+    - Sass
+  icon: 
+  image: images/project_line.jpg
+
+- name: 게임 서비스 페이지 React 컴포넌트 개발
+  url: 
+  description: 게임 서비스 소개 페이지 컴포넌트 개발
+  status: 
+  tags:
+    - HTML
+    - Sass
+    - React Component
+  icon: 
+  image: images/project_pod.jpg
+
+- name: 게임 서비스 프론트엔드 개발
+  url: https://www.sportsplex.io/
+  description: 스포츠게임 사이트 구축. 
+  
+    javascript를 이용한 프론트엔드 개발진행
+  status: live
+  tags:
+    - HTML
+    - Sass
+    - Javascript
+  icon: 
+  image: images/project_nabu.jpg
+
+- name: crypto 사이트 개발
+  url: https://github.com/bellal7/crypto
+  description: crypto 사이트 Vue 개발
+  status: 
+  tags:
+    - HTML
+    - Sass
+    - Vue.js
+  icon: github
+  image: images/project_crypto.jpg
+
+- name: 온라인 교육서비스 웹 프론트엔드 개발 (2014.4 - 2018.9)
+  url: https://www.stunitas.com/
+  description: 어학,수능등 교육사이트 구축 및 서비스운영 
+  
+    사업부 프로모션 페이지 제작
+  status: live
+  tags:
+    - HTML
+    - Sass
+    - Javascript
+  icon: 
+  image: images/project_st.jpg
+
+- name: Backend developer  (2013.11 - 2014.4)
+  url: 
+  description: SK Telecom 세일즈 프로모션 웹,모바일 퍼블리싱 및 개발
+  
+    소셜댓글(SNS), 카카오톡 연동 개발, 유지보수 (JAVA, ASP) 
+    
+    최신트렌드 API 연동 개발 (네이버,다음,트위터트렌드)
+  status: 
+  tags:
+    - ASP
+    - Oracle
+    - MS-SQL
+    - HTML
+    - CSS
+    - Javascript
+    - Jquery
+  icon: 
+  image: 
+
+- name: Backend developer (2010.12 - 2013.11)
+  url: http://www.eduhouse.net/
+  description: 자사사이트 운영 및 백엔드개발
+
+    홈페이지 개발 및 사내 시스템 운영업무 
+
+    웹표준 코딩 업무지원
+
+    데이터 통계를 프로그램 개발
+  status: live
+  tags:
+    - ASP
+    - Oracle
+    - MS-SQL
+    - HTML
+    - CSS
+    - Javascript
+    - Jquery
+  icon: website
+  image: images/project_edu.jpg
