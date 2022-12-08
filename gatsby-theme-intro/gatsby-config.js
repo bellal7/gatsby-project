@@ -10,7 +10,7 @@ module.exports = ({
       locale: "en",
       showThemeLogo,
       title: "Bella Lim",
-      formspreeEndpoint: "https://formspree.io/f/{your-id}",
+      formspreeEndpoint: "https://formspree.io/f/xzbwnark",
     },
     plugins: [
       {
