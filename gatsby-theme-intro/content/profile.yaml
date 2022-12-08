@@ -1,28 +1,26 @@
 - profile:
   initials: JD
-  name: Bella Lim
-  profession: Web Developer
+  name: Boram Lim
+  profession: Frontend Developer
   image: images/profile.jpg
-  location: New York, USA
+  location: Seoul, South Korea
   relocation: true
-  company: Atomic Studio
+  company: ""
   for_hire: true
-  focus: Learning Gatsby
-  focus_url: https://gatsbyjs.org
+  focus: Frontend Developer
+  focus_url: ""
   about: |
-    Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution.
-
-    User generated content in real-time will have multiple touchpoints for offshoring. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.
+    백엔드 개발 경험이 있는 프론트엔드 개발자입니다.
+    방송 플랫폼 서비스, 웹 에이전시, 광고대행사, 교육기업 등 여러 서비스기업에서의 근무 경험으로 프론트엔드 개발자로써 전문성을 키워 왔습니다.
+    최근까지 진행한 프로젝트는 React 기반의 실시간 오디오 방송 플랫폼 웹, 하이브리드앱 제작, 대기업과의 협업을 통한 프론트엔드 개발작업 등이 있습니다.
   skills:
-    - JavaScript
     - HTML / CSS
-    - Ruby on Rails
+    - React / VueJS
+    - JavaScript
   tools:
-    - React
     - VSCode
-    - Gatsby
   budget:
-    currency: $
-    min: 5
-    max: 30
-    default: 10
+    currency: ""
+    min: ""
+    max: ""
+    default: ""
